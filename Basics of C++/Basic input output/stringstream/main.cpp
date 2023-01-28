@@ -30,4 +30,5 @@ int main() {
     cout << "Total price: " << price*quantity << endl;
 
     return 0;
+    
 }
